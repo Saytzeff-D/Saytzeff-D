@@ -8,9 +8,10 @@ His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent tow
 - 🌱 I’m currently learning Python-Django
 - 👯 I’m looking to collaborate on any ongoing hackathons
 - 💬 Ask me about anything whatsoever on React, Vue, Angular, PHP/Laravel, Node/Express
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+    - [Twitter](https://twitter.com/DavifyRx "My Twitter") | [LinkedIn](https://www.linkedin.com/in/ololade-david/ "My LinkedIn") | [Portfolio](https://davify.netlify.app "My Portfolio")
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Angular alot
+- ⚡ Fun fact: I love cheese balls
 --------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools :
 <p>
@@ -24,5 +25,12 @@ His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent tow
 
 -------------------------------------------------------------------
 
+## &#x1f4c8; GitHub Stats
+
+![Olanetsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saytzeff-D&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+---------------------------------------------------------------------------
+
  ### :fire: My Stats:
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saytzeff-D&theme=earth&hide_border=true&type=png)](https://git.io/streak-stats)
+ 
