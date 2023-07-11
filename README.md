@@ -13,7 +13,6 @@ His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent tow
 - ⚡ Fun fact: I love Angular alot
 --------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saytzeff-D&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
@@ -22,6 +21,8 @@ His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent tow
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
----------------------------------------------------------------
+
+-------------------------------------------------------------------
+
  ### :fire: My Stats:
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saytzeff-D&theme=earth&hide_border=true&type=png)](https://git.io/streak-stats)
