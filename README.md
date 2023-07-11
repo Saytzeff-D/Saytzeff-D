@@ -11,3 +11,5 @@ His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent tow
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Angular alot
+---------------------------------------------------------------
+ ### :fire: My Stats:
