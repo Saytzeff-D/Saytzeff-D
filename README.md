@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------
 
-His name is David Ololade, Atanda. He's an indigene of Ogbomoso, a prominent town in Oyo State, Nigeria. He's a skilled software engineer with great expertise in fullstack web development. He actively engages with other developers in the world through hackathons, workshop training and spaces
+His name is David Ololade, Atanda. A Nigerian. He's a skilled software engineer with great expertise in fullstack web development. He actively engages with other developers in the world through hackathons, workshop training and spaces
 
 ----------------------------------------------------------
 - 🔭 I’m currently working on freelance projects
